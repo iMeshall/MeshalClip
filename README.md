@@ -16,10 +16,18 @@ MeshalClip is a Windows application for downloading videos from supported social
 
 - 🪟 Windows 10 or Windows 11
 
+## 📦 Portable Version
+
+MeshalClip is available as a **portable Windows executable**. No installation is required — simply download the `.exe` file and run it.
+
+- 🚀 No installer required.
+- 🖥️ Runs directly on Windows.
+- 📁 No traditional installation process.
+
 ## 🚀 Downloads
 
-- 📦 **[Download Latest Release](../../releases/latest)** — Get the pre-built Windows application.
-- 💻 **[Source Code](../../)** — Browse or download the source code directly from the repository.
+- 📦 **[Download Latest Release](https://github.com/iMeshall/MeshalClip/releases/latest)** — Get the ready-to-run Windows executable.
+- 💻 **[Source Code](https://github.com/iMeshall/MeshalClip)** — Browse or download the source code directly from the repository.
 
 ## 🛠️ Built With
 
